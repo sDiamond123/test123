@@ -11,6 +11,7 @@ public class DriveFTC extends OpMode {
     double speed=1;
     double wPos=0;
     double [] wPositions={};
+    //put position values in there
     int wIndex;
     double la=1;
     double lspeed=0;
